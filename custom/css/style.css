@@ -1,0 +1,143 @@
+#navbar{
+	background-color:#DFF6FF;
+}
+
+.activate{
+	background-color:#1363DF;
+}
+.activate:hover{
+	background-color:#06283D;
+}
+.body-bg{
+  height: 100%;
+}
+.navbar{
+	background-color:#06283D;
+}
+/* LOGIN FORM Properties */
+.login-form {
+			width: 340px;
+			margin: 50px auto;
+}
+
+.login-form form {
+	margin-bottom: 15px;
+	background: #f7f7f7;
+	box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+	padding: 30px;
+}
+
+.login-form h2 {
+	margin: 0 0 15px;
+}
+
+.form-control,
+.btn {
+	min-height: 38px;
+	border-radius: 2px;
+	font-size: 15px;
+	font-weight: bold;
+	background: #434343;
+}
+.btn:hover{
+	background: black;
+	color:gray;
+}
+		
+
+/* INDEX Properties */
+
+.Img-icon{
+	height:110px;
+	width:auto;
+}
+
+.index-filler-parent{
+	border: 3px solid #fff;
+    padding: 20px;
+	margin-top:0;
+}
+
+.index-filler-child{
+	width: 48%;
+	height: 280px;
+    float: left;
+    padding: 20px;
+    background-color:#DFF6FF;
+	box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+	margin-right:2%;
+	margin-top:30px;
+	border-radius:10%;
+}
+
+/* USERS LIST Properties */
+
+.action-btn-users{
+	color:white;
+	border-radius:5px;
+}
+.form-control{
+	background-color:white;
+}
+
+
+/*ABOUT DEVELOPER Properties*/
+
+.about_img{
+	height:30px;
+}
+
+.abt_content{
+	position: absolute;
+	left:0;
+	display:grid;
+}
+#self_img{
+	width:20%;
+	height:auto;
+	position: absolute;
+	margin-top:30px;
+	right:0;
+	display:grid;
+	border-radius:50%;
+}
+
+.bg-img{
+	background-image: url('https://www.lung.org/getmedia/e2fb4882-a533-49a2-9c72-730e40c81abe/traffic_k.jpg.jpg');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height:100%;
+}
+.page-header{
+	padding-top:10px;
+}
+
+.bg-white div{
+	background-color:#DFF6FF;
+	opacity:90%;
+	
+}
+.bg-white-2 div{
+	background-color:#DFF6FF;
+	opacity:75%;
+}
+
+.header-text{
+	color: black;
+	-webkit-text-fill-color: black; /* Will override color (regardless of order) */
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: white;
+}
+
+.btn{
+	background-color:#06283D;
+}
+
+.btn:hover{
+	background-color:#47B5FF;
+}
+
+
+
+
